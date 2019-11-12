@@ -1,0 +1,166 @@
+DEBUG 2019-11-12 15:11:41,727 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-11-12 15:11:41,985 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-11-12 15:11:42,054 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.Web.Startup.TheEndProjectWebMvcModule, TheEndProject.Web.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,056 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.TheEndProjectWebCoreModule, TheEndProject.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,056 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.TheEndProjectApplicationModule, TheEndProject.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,056 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.TheEndProjectCoreModule, TheEndProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,060 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,061 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,061 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,062 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,062 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.EntityFrameworkCore.TheEndProjectEntityFrameworkModule, TheEndProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,062 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,063 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,063 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,063 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,063 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,064 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:42,066 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-11-12 15:11:42,220 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-12 15:11:42,220 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-12 15:11:42,220 [1    ] o.Configuration.LanguageManagementConfig - Converted TheEndProject (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-12 15:11:42,220 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-12 15:11:43,118 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: TheEndProject.EntityFrameworkCore.TheEndProjectDbContext, TheEndProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:11:48,403 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-11-12 15:11:48,433 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-11-12 15:11:48,445 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-11-12 15:11:48,450 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: TheEndProject
+DEBUG 2019-11-12 15:11:48,455 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-11-12 15:11:48,745 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-11-12 15:11:48,902 [1    ] rization.Users.UserTokenExpirationWorker - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker
+DEBUG 2019-11-12 15:11:48,954 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2019-11-12 15:11:48,954 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-11-12 15:11:48,960 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Users.Dto.CreateUserDto
+DEBUG 2019-11-12 15:11:48,961 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Users.Dto.UserDto
+DEBUG 2019-11-12 15:11:48,961 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-11-12 15:11:48,961 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-11-12 15:11:48,961 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Roles.Dto.PermissionDto
+DEBUG 2019-11-12 15:11:48,962 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-11-12 15:11:48,962 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.MultiTenancy.Dto.TenantDto
+DEBUG 2019-11-12 15:11:48,962 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Web.Views.Shared.Components.TenantChange.TenantChangeViewModel
+DEBUG 2019-11-12 15:11:48,962 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Web.Models.Roles.EditRoleModalViewModel
+DEBUG 2019-11-12 15:22:44,749 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-11-12 15:22:44,782 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-11-12 15:22:44,879 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.Web.Startup.TheEndProjectWebMvcModule, TheEndProject.Web.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,884 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.TheEndProjectWebCoreModule, TheEndProject.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,884 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.TheEndProjectApplicationModule, TheEndProject.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,885 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.TheEndProjectCoreModule, TheEndProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,885 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,885 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,885 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,886 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,887 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.EntityFrameworkCore.TheEndProjectEntityFrameworkModule, TheEndProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,887 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,887 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,887 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,888 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,888 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,889 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:44,894 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-11-12 15:22:45,070 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-12 15:22:45,070 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-12 15:22:45,070 [1    ] o.Configuration.LanguageManagementConfig - Converted TheEndProject (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-12 15:22:45,070 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-12 15:22:45,923 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: TheEndProject.EntityFrameworkCore.TheEndProjectDbContext, TheEndProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:22:46,903 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-11-12 15:22:46,928 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-11-12 15:22:46,942 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-11-12 15:22:46,948 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: TheEndProject
+DEBUG 2019-11-12 15:22:46,953 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-11-12 15:22:47,039 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-11-12 15:22:47,093 [1    ] rization.Users.UserTokenExpirationWorker - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker
+DEBUG 2019-11-12 15:22:47,153 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2019-11-12 15:22:47,153 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-11-12 15:22:47,162 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Users.Dto.CreateUserDto
+DEBUG 2019-11-12 15:22:47,163 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Users.Dto.UserDto
+DEBUG 2019-11-12 15:22:47,164 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-11-12 15:22:47,164 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-11-12 15:22:47,164 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Roles.Dto.PermissionDto
+DEBUG 2019-11-12 15:22:47,164 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-11-12 15:22:47,164 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.MultiTenancy.Dto.TenantDto
+DEBUG 2019-11-12 15:22:47,164 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Web.Views.Shared.Components.TenantChange.TenantChangeViewModel
+DEBUG 2019-11-12 15:22:47,164 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TheEndProject.Web.Models.Roles.EditRoleModalViewModel
+INFO  2019-11-12 15:22:52,312 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://172.17.20.29:62118/  
+WARN  2019-11-12 15:22:52,428 [10   ] calization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN'.
+WARN  2019-11-12 15:22:52,428 [10   ] calization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN'.
+INFO  2019-11-12 15:22:54,554 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action TheEndProject.Web.Controllers.HomeController.Index (TheEndProject.Web.Mvc)
+WARN  2019-11-12 15:22:54,975 [10   ] Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 42
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 42
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+INFO  2019-11-12 15:22:54,987 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+INFO  2019-11-12 15:22:54,999 [10   ] Microsoft.AspNetCore.Mvc.ChallengeResult - Executing ChallengeResult with authentication schemes ().
+INFO  2019-11-12 15:22:55,034 [10   ] tion.Cookies.CookieAuthenticationHandler - AuthenticationScheme: Identity.Application was challenged.
+INFO  2019-11-12 15:22:55,042 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action TheEndProject.Web.Controllers.HomeController.Index (TheEndProject.Web.Mvc) in 480.5421ms
+INFO  2019-11-12 15:22:55,119 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2832.0689ms 302 
+INFO  2019-11-12 15:22:55,596 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://127.0.0.1:17253/iisintegration  0
+INFO  2019-11-12 15:22:55,597 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.0833ms 202 
+DEBUG 2019-11-12 15:22:55,600 [11   ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2019-11-12 15:22:55,602 [11   ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-11-12 15:22:55,602 [11   ] rization.Users.UserTokenExpirationWorker - Stop background worker: Abp.Authorization.Users.UserTokenExpirationWorker
+DEBUG 2019-11-12 15:22:55,603 [11   ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-11-12 15:22:55,603 [11   ] rization.Users.UserTokenExpirationWorker - WaitToStop background worker: Abp.Authorization.Users.UserTokenExpirationWorker
+DEBUG 2019-11-12 15:22:55,603 [11   ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2019-11-12 15:58:11,551 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-11-12 15:58:11,684 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-11-12 15:58:11,760 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.Web.Startup.TheEndProjectWebMvcModule, TheEndProject.Web.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,764 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.TheEndProjectWebCoreModule, TheEndProject.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,765 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.TheEndProjectApplicationModule, TheEndProject.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,765 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.TheEndProjectCoreModule, TheEndProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,768 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,769 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,769 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,770 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.6.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,770 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TheEndProject.EntityFrameworkCore.TheEndProjectEntityFrameworkModule, TheEndProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,771 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.6.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,771 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.6.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.6.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-11-12 15:58:11,775 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-11-12 15:58:13,529 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-12 15:58:13,529 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-12 15:58:13,529 [1    ] o.Configuration.LanguageManagementConfig - Converted TheEndProject (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-12 15:58:13,529 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-11-12 15:58:15,071 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: TheEndProject.EntityFrameworkCore.TheEndProjectDbContext, TheEndProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+FATAL 2019-11-12 15:58:16,461 [1    ] Abp.AbpBootstrapper                      - System.MissingMethodException: Method not found: 'Abp.Authorization.Permission Abp.Authorization.IPermissionDefinitionContext.CreatePermission(System.String, Abp.Localization.ILocalizableString, Abp.Localization.ILocalizableString, Abp.MultiTenancy.MultiTenancySides, Abp.Application.Features.IFeatureDependency)'.
+   at TheEndProject.Authorization.TheEndProjectAuthorizationProvider.SetPermissions(IPermissionDefinitionContext context)
+   at Abp.Authorization.PermissionManager.Initialize() in D:\Github\aspnetboilerplate\src\Abp\Authorization\PermissionManager.cs:line 43
+   at Abp.AbpKernelModule.PostInitialize() in D:\Github\aspnetboilerplate\src\Abp\AbpKernelModule.cs:line 88
+   at Abp.Modules.AbpModuleManager.<>c.<StartModules>b__15_2(AbpModuleInfo module) in D:\Github\aspnetboilerplate\src\Abp\Modules\AbpModuleManager.cs:line 48
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.Modules.AbpModuleManager.StartModules() in D:\Github\aspnetboilerplate\src\Abp\Modules\AbpModuleManager.cs:line 49
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 156
+System.MissingMethodException: Method not found: 'Abp.Authorization.Permission Abp.Authorization.IPermissionDefinitionContext.CreatePermission(System.String, Abp.Localization.ILocalizableString, Abp.Localization.ILocalizableString, Abp.MultiTenancy.MultiTenancySides, Abp.Application.Features.IFeatureDependency)'.
+   at TheEndProject.Authorization.TheEndProjectAuthorizationProvider.SetPermissions(IPermissionDefinitionContext context)
+   at Abp.Authorization.PermissionManager.Initialize() in D:\Github\aspnetboilerplate\src\Abp\Authorization\PermissionManager.cs:line 43
+   at Abp.AbpKernelModule.PostInitialize() in D:\Github\aspnetboilerplate\src\Abp\AbpKernelModule.cs:line 88
+   at Abp.Modules.AbpModuleManager.<>c.<StartModules>b__15_2(AbpModuleInfo module) in D:\Github\aspnetboilerplate\src\Abp\Modules\AbpModuleManager.cs:line 48
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.Modules.AbpModuleManager.StartModules() in D:\Github\aspnetboilerplate\src\Abp\Modules\AbpModuleManager.cs:line 49
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 156
